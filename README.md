@@ -1,4 +1,4 @@
-# Áudio Player
+# Áudio Player :file_folder:
 :bookmark_tabs: **Uma Extensão que reproduz músicas no Google Chrome**
 
 ### :information_source: Especificações do Projeto:
