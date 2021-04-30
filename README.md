@@ -16,7 +16,7 @@
 <img align="center" alt="icon-js" height="30" width="40" src="json-file.svg" style="max-width:100%;"></img> **JSON**
 
 
-## :information_source: **Para criar sua própria Extensão no Chrome, acesse o vídeo do canal do Eu sou o Crys (https://www.youtube.com/watch?v=mf_jAiWbbQc&t=776s&ab_channel=EusouoCrys)**
+### :information_source: **Para criar sua própria Extensão no Chrome, acesse o vídeo do canal do Eu sou o Crys (https://www.youtube.com/watch?v=mf_jAiWbbQc&t=776s&ab_channel=EusouoCrys)**
 
 <p align="center">
   <img src="logo_gp8.png">
