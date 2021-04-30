@@ -5,7 +5,7 @@
 
 **Neste projeto feito com HTML5, Java Script, CSS3 e JSON, foi criado uma extensão para o Google Chrome, onde ela reproduz duas músicas já pré-selecionadas permitindo pausar e avançar da primeira para segunda música.**
 
-## 📌 Ferramentas usadas neste projeto: 
+## 📌 Recursos usados neste projeto: 
 
 <img align="center" alt="icon-js" height="30" width="40" src="visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code -  (https://code.visualstudio.com/Download)**
 
