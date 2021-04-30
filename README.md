@@ -1,7 +1,7 @@
 # Áudio Player
 :bookmark_tabs: **Uma Extensão que reproduz músicas no Google Chrome**
 
-## :information_source: Especificações do Projeto:
+### :information_source: Especificações do Projeto:
 
 **Neste projeto feito com HTML5, Java Script, CSS3 e JSON, foi criado uma extensão para o Google Chrome, onde ela reproduz duas músicas já pré-selecionadas permitindo pausar e avançar da primeira para segunda música.**
 
