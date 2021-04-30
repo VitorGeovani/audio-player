@@ -7,6 +7,8 @@
 
 ## 📌 Ferramentas usadas neste projeto: 
 
+<img align="center" alt="icon-js" height="30" width="40" src="visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code**
+
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img> **HTML5**
 
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img> **Java Script**
